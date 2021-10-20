@@ -1,5 +1,5 @@
 {% set name = "kwargshelper" %}
-{% set version = "1.2.1" %}
+{% set version = "2.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/kwargshelper-{{ version }}.tar.gz
-  sha256: 3b09c58692a5fed0484a9c7d8e53c78ffbc1d06748b397ebfd14eecaa05d2df5
+  sha256: 2a7d88aaa114a0bc36e8e927b4f62c2d90b572a6a16128f51b5bc0c0c7491bce
 
 build:
   number: 0
