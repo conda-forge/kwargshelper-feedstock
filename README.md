@@ -5,7 +5,7 @@ Home: https://github.com/Amourspirit/python-kwargshelper
 
 Package license: MIT
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kwargshelper-feedstock/blob/master/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kwargshelper-feedstock/blob/main/LICENSE.txt)
 
 Summary: Manages testing for valid kwargs key, values pairs and assigns class attributes for pairs.
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13709&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/kwargshelper-feedstock?branchName=master">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13709&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/kwargshelper-feedstock?branchName=main">
       </a>
     </td>
   </tr>
